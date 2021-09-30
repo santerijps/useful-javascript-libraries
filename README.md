@@ -1,4 +1,4 @@
-# useful-javascript-libraries
+# Useful JavaScript Libraries
 A list of useful JavaScript libraries.
 
 - [LeaderLine: Draw lines between DOM elements](https://github.com/anseki/leader-line)
